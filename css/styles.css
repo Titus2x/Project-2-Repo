@@ -4,8 +4,8 @@ body {
 }
 
 nav {
-  background-color: #F7BEC0;
-  color: #333;
+  background-color: #000000;
+  color: #0000FF;
   font-family: monospace;
   padding: 15px;
 }
@@ -20,7 +20,7 @@ nav li {
 }
 
 section {
-  background-color: #F5F5DC;
+  background-color: #0000FF;
   padding: 22px;
   max-width: 950px;
   margin: 20px auto;
@@ -29,7 +29,7 @@ section {
 
 h1, h2, h3, p, ul, li, ol, dt, dt, dd {
   text-align: center;
-  color: #111;
+  color: #000000;
 }
 
 a {
@@ -65,6 +65,6 @@ iframe {
   height: 500px;
 }
 
-.fragrenceNote {
+.carNote {
   font-weight: bold;
 }
