@@ -5,7 +5,7 @@ body {
 }
 
 nav {
-  background-color: #F7BEC0;
+  background-color: #111;
   color: #333;
   font-family: monospace;
   padding: 15px;
@@ -30,7 +30,7 @@ section:first-child {
 }
 
 section {
-  background-color: #F5F5DC;
+  background-color: #009698;
   padding: 22px;
   max-width: 950px; 
   margin: 20px auto; 
